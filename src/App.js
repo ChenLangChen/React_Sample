@@ -8,8 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Greeting from Amplify. f-2.  
-
-          Hello from f-2   
         </p>
         <a
           className="App-link"
