@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I'm b_1 branch. Hello!
+          I'm b_1 branch. Hello! Conflict resolved!
         </p>
         <a
           className="App-link"
